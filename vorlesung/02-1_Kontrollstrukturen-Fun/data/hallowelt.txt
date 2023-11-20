@@ -1,2 +1,2 @@
-Hallo CT 1
-Hallo CT 2
+Hallo Welt!
+Hallo Welt2!
