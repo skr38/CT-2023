@@ -11,3 +11,4 @@ import dots as dots
 
 result = dots.add(dots.to_dots(3), dots.mul(dots.to_dots(4), dots.to_dots(2)))
 print(result)
+print(help(dots))
